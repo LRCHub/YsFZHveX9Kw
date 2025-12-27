@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "じぶんラブ宣言",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T12:03:39.285056Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "じぶんラブ宣言",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_じぶんラブ宣言_Onephony.txt"
+    }
+  ]
+}
